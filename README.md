@@ -3,7 +3,8 @@
 - [Grafici di base COVID-19, per la Provincia di Enna](#grafici-di-base-covid-19-per-la-provincia-di-enna)
   - [Mappa Provincia di Enna](#mappa-provincia-di-enna)
   - [Andamento complessivo](#andamento-complessivo)
-  - [Andamento comune per comune](#andamento-comune-per-comune)
+  - [Andamento comune per comune 1](#andamento-comune-per-comune-1)
+- [Andamento comune per comune 2](#andamento-comune-per-comune-2)
 
 <!-- /TOC -->
 
@@ -35,12 +36,22 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 </script>
 ```
 
-### Andamento comune per comune
+### Andamento comune per comune 1
 
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 ```html
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
+
+## Andamento comune per comune 2
+
+<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+```html
+<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
