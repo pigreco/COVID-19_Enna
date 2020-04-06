@@ -41,4 +41,4 @@ Riportiamo qui di seguito il significato della tipologia dei valori esposti e le
 
 ## Ringraziamenti
 
-Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Emanuele Parisi](https://www.facebook.com/EPAOfficialPage/) e [Totò Fiandaca](https://twitter.com/totofiandaca).
+Questo lavoro non ci sarebbe stato senza il forte stimolo inziale e il tempo dedicato di [Emanuele Parisi](https://www.facebook.com/EPAOfficialPage/) e [Totò Fiandaca](https://twitter.com/totofiandaca). Da una idea di [OpenDataSicilia](https://github.com/opendatasicilia/COVID-19_Sicilia/blob/master/README.md) (grazie mille).
