@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Perché questo spazio -- In costruzione](#perch%c3%a9-questo-spazio----in-costruzione)
+- [Idea](#idea)
 - [Scopo](#scopo)
 - [Dati](#dati)
   - [Se usi questi dati](#se-usi-questi-dati)
@@ -11,9 +12,13 @@
 
 ## Perché questo spazio -- In costruzione
 
-L’esigenza di avere un dataset in cui vengano registrati i valori relativi all’epidemia COVID-19 in **provincia di Enna** dettagliato per comune nasce dalla mancanza di un tale dataset nel repo del Dipartimento della Protezione Civile, dove i dati disaggregati per provincia riguardano soltanto il campo “totale_casi”, e dalla mancanza di disponibilità di tali dati da parte della Regione Siciliana, **assenza totale di dati a livello comunale**.
+L’esigenza di avere un dataset in cui vengano registrati i valori relativi all’epidemia COVID-19 in **provincia di Enna** dettagliato per comune nasce dalla `mancanza` di un tale dataset nel repo del **Dipartimento della Protezione Civile**, dove i dati disaggregati per provincia riguardano soltanto il campo **totale_casi**, e dalla mancanza di disponibilità di tali dati da parte della **Regione Siciliana**, **assenza totale di dati a livello comunale**.
 
-Per essere più precisi, la Regione Siciliana pubblica quotidianamente (in prosa e per immagini) un comunicato in cui vengono riportati alcuni valori che riguardano l’epidemia COVID-19 in Sicilia, avvisando che sono i valori comunicati al Dipartimento di Protezione Civile ma non rende appunto disponibile un dataset che elenchi l’insieme di questi dati comunicati quotidianamente.
+La **Regione Siciliana** pubblica quotidianamente (in prosa e per immagini) un comunicato in cui vengono riportati alcuni valori che riguardano **l’epidemia COVID-19 in Sicilia**, avvisando che sono i valori comunicati al **Dipartimento di Protezione Civile** ma non rende appunto disponibile un dataset che elenchi l’insieme di questi dati comunicati quotidianamente.
+
+## Idea
+
+L'idea parte da un ottimo lavoro realizzato dalla Comunità [OpenDataSicilia](https://github.com/opendatasicilia/COVID-19_Sicilia/blob/master/README.md) (grazie mille). Un abbraccio virtuale a [Nino Galante](https://twitter.com/picomiles) e [Andrea Borruso](https://twitter.com/aborruso).
 
 ## Scopo
 
