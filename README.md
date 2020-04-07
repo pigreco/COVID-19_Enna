@@ -59,11 +59,11 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 ### Andamento comune per comune - last week
 
-<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - last week" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="584"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - last week" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="584"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 ```html
-<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - last week" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="584"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - last week" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="584"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
 
