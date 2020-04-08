@@ -6,6 +6,7 @@
 - [Dati](#dati)
   - [Se usi questi dati](#se-usi-questi-dati)
 - [Schema dati](#schema-dati)
+- [Progetto su data.word](#progetto-su-dataword)
 - [Ringraziamenti](#ringraziamenti)
 
 <!-- /TOC -->
@@ -43,6 +44,10 @@ Riportiamo qui di seguito il significato della tipologia dei valori esposti e le
 - `guariti`: numero di guariti dal coronavirus
 - `deceduti`: numero di morti da e con coronavirus
 - `incidenza ogni 1000 ab.`: rappprto tra `totale_casi` e popolazione residente per 1000 abitanti. (`totale_casi/pop*1000`)
+
+## Progetto su data.word
+
+- [progetto e dati](https://data.world/pigrecoinfinito/covid-19-provincia-di-enna/workspace/project-summary?agentid=pigrecoinfinito&datasetid=covid-19enna) - sincronizzato con il gsheet.
 
 ## Ringraziamenti
 
