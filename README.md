@@ -10,7 +10,7 @@
 <h1>Grafici di base COVID-19, per la Provincia di Enna</h1>
 
 
-`La seguente pagina prende ispirazione dal progetto Regionale curato da` [OpenDataSicilia](https://opendatasicilia.github.io/COVID-19_Sicilia/)<br>
+`La seguente pagina prende ispirazione dal progetto Regionale curato da` [OpenDataSicilia](https://opendatasicilia.github.io/COVID-19_Sicilia/)🏷<br>
 
 ---
 
@@ -24,11 +24,11 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 - [Lista eleborazioni](#lista-eleborazioni)
     - [Mappa Provincia di Enna 🗺](#mappa-provincia-di-enna-%f0%9f%97%ba)
-    - [Andamento complessivo](#andamento-complessivo)
-    - [Andamento comune per comune 1](#andamento-comune-per-comune-1)
-    - [Andamento comune per comune 2](#andamento-comune-per-comune-2)
-    - [Andamento comune per comune - Totali casi - Ultima settimana](#andamento-comune-per-comune---totali-casi---ultima-settimana)
-  - [NOTE](#note)
+    - [Andamento complessivo 📊](#andamento-complessivo-%f0%9f%93%8a)
+    - [Andamento comune per comune 1 📊](#andamento-comune-per-comune-1-%f0%9f%93%8a)
+    - [Andamento comune per comune 2 📊](#andamento-comune-per-comune-2-%f0%9f%93%8a)
+    - [Andamento comune per comune - Totali casi - Ultima settimana 📊](#andamento-comune-per-comune---totali-casi---ultima-settimana-%f0%9f%93%8a)
+  - [NOTE 📑](#note-%f0%9f%93%91)
 
 <!-- /TOC -->
 
@@ -48,7 +48,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 </script>
 ```
 
-### Andamento complessivo
+<br>
+
+### Andamento complessivo 📊
 
 <iframe title="Andamento Provincia Enna" aria-label="Interactive line chart" id="datawrapper-chart-Yd4St" src="//datawrapper.dwcdn.net/Yd4St/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
@@ -61,8 +63,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Andamento Provincia Enna" aria-label="Interactive line chart" id="datawrapper-chart-Yd4St" src="//datawrapper.dwcdn.net/Yd4St/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+<br>
 
-### Andamento comune per comune 1
+### Andamento comune per comune 1 📊
 
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
@@ -75,8 +78,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+<br>
 
-### Andamento comune per comune 2
+### Andamento comune per comune 2 📊
 
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
@@ -89,8 +93,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
+<br>
 
-### Andamento comune per comune - Totali casi - Ultima settimana
+### Andamento comune per comune - Totali casi - Ultima settimana 📊
 
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - Totale casi - Ultima settimana" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
@@ -108,6 +113,6 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 😷 NUMERO VERDE **800 31 91 41** per i parenti dei pazienti COVID ricoverati all'ospedale Umberto I di Enna dalle **ore 9 alle ore 13** 😷
 
-## NOTE
+## NOTE 📑
 
 Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema **COVID-19**, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
