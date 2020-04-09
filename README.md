@@ -28,7 +28,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
     - [Andamento comune per comune 1](#andamento-comune-per-comune-1)
     - [Andamento comune per comune 2](#andamento-comune-per-comune-2)
     - [Andamento comune per comune - Totali casi - Ultima settimana](#andamento-comune-per-comune---totali-casi---ultima-settimana)
-  - [NOTE 📑](#note-%f0%9f%93%91)
+  - [NOTE](#note)
 
 <!-- /TOC -->
 
@@ -113,6 +113,6 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 😷 NUMERO VERDE **800 31 91 41** per i parenti dei pazienti COVID ricoverati all'ospedale Umberto I di Enna dalle **ore 9 alle ore 13** 😷
 
-## NOTE 📑
+## NOTE
 
-Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema **COVID-19**, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
+📑 Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema **COVID-19**, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
