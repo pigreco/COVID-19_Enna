@@ -1,6 +1,12 @@
-<div class="col-12  border p-2 bg-blue-light" align="right">
-  Leggi la <a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"> <b>lettera aperta</b></a> alla Regione Siciliana
+<div class="container-lg clearfix border p-2 bg-blue-light my-">
+  <div class="col-md-6 float-left p-2 border0">
+    📧 <a href="mailto:pigrecoinfinito@gmail.com">Chiedi aiuto!</a>
+  </div>
+  <div class="col-md-6 float-left p-2 border0 text-right">
+    Leggi la  <a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"><b>lettera aperta</b></a> alla Regione Siciliana
+  </div>
 </div>
+<br>
 
 <!-- TOC -->
 
@@ -15,7 +21,7 @@
 
 ## Grafici di base COVID-19, per la Provincia di Enna
 
-A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web. L'aggiornamento previsto è quotidiano e automatico.
+A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico.
 
 Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [Totò Fiandaca](https://twitter.com/totofiandaca).
 
