@@ -8,6 +8,13 @@
 </div>
 <br>
 
+
+## Grafici di base COVID-19, per la Provincia di Enna
+
+A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico.
+
+Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [Totò Fiandaca](https://twitter.com/totofiandaca).
+
 <!-- TOC -->
 
 - [Grafici di base COVID-19, per la Provincia di Enna](#grafici-di-base-covid-19-per-la-provincia-di-enna)
@@ -18,12 +25,6 @@
   - [Andamento comune per comune - Totali casi - Ultima settimana](#andamento-comune-per-comune---totali-casi---ultima-settimana)
 
 <!-- /TOC -->
-
-## Grafici di base COVID-19, per la Provincia di Enna
-
-A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico.
-
-Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [Totò Fiandaca](https://twitter.com/totofiandaca).
 
 ### Mappa Provincia di Enna
 
