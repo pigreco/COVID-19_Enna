@@ -9,6 +9,10 @@
 
 ## Grafici di base COVID-19, per la Provincia di Enna
 
+`La seguente pagina prende ispirazione dal progetto Regionale curato da` [OpenDataSicilia](https://opendatasicilia.github.io/COVID-19_Sicilia/)<br>
+
+---
+
 A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico.
 
 Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [Totò Fiandaca](https://twitter.com/totofiandaca).
