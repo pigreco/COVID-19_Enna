@@ -14,7 +14,7 @@
 
 ---
 
-A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico.
+A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web con un semplice <kbd>CTRL+C</kbd>, <kbd>CTRL+V</kbd> (un copia e incolla 😊). L'aggiornamento previsto è quotidiano e automatico 📆. 
 
 ---
 
@@ -23,7 +23,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <!-- TOC -->
 
 - [Lista eleborazioni](#lista-eleborazioni)
-    - [Mappa Provincia di Enna](#mappa-provincia-di-enna)
+    - [Mappa Provincia di Enna 🗺](#mappa-provincia-di-enna-%f0%9f%97%ba)
     - [Andamento complessivo](#andamento-complessivo)
     - [Andamento comune per comune 1](#andamento-comune-per-comune-1)
     - [Andamento comune per comune 2](#andamento-comune-per-comune-2)
@@ -34,12 +34,14 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 # Lista eleborazioni
 
-### Mappa Provincia di Enna
+### Mappa Provincia di Enna 🗺
 
 <iframe title="Comuni della Provincia di Enna" aria-label="choropleth map" id="datawrapper-chart-P29ri" src="//datawrapper.dwcdn.net/P29ri/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-:bar_chart: Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Comuni della Provincia di Enna" aria-label="choropleth map" id="datawrapper-chart-P29ri" src="//datawrapper.dwcdn.net/P29ri/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -51,7 +53,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Andamento Provincia Enna" aria-label="Interactive line chart" id="datawrapper-chart-Yd4St" src="//datawrapper.dwcdn.net/Yd4St/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-:bar_chart: Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Andamento Provincia Enna" aria-label="Interactive line chart" id="datawrapper-chart-Yd4St" src="//datawrapper.dwcdn.net/Yd4St/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -63,7 +67,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-:bar_chart: Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -75,7 +81,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-:bar_chart: Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -87,7 +95,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - Totale casi - Ultima settimana" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-:bar_chart: Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
 
 ```html
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna - Totale casi - Ultima settimana" aria-label="Split Bars" id="datawrapper-chart-Iqka4" src="//datawrapper.dwcdn.net/Iqka4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -96,7 +106,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 ---
 
-NUMERO VERDE **800 31 91 41** per i parenti dei pazienti COVID ricoverati all'ospedale Umberto I di Enna dalle **ore 9 alle ore 13**
+😷 NUMERO VERDE **800 31 91 41** per i parenti dei pazienti COVID ricoverati all'ospedale Umberto I di Enna dalle **ore 9 alle ore 13** 😷
 
 ## NOTE
 
