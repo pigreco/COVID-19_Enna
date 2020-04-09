@@ -1,3 +1,7 @@
+<div class="col-12  border p-2 bg-blue-light" align="right">
+  Leggi la <a class="" href="http://opendatasicilia.it/2020/03/23/lettera-aperta-alla-regione-siciliana-per-la-pubblicazione-in-formato-machine-readable-dei-dati-sulla-covid19/" target="_blank"> <b>lettera aperta</b></a> alla Regione Siciliana
+</div>
+
 <!-- TOC -->
 
 - [Grafici di base COVID-19, per la Provincia di Enna](#grafici-di-base-covid-19-per-la-provincia-di-enna)
