@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: "pages-themes/primer"
+title: COVID-19, Sicilia/Enna - Un progetto ispirato da OpenDataSicilia
+description: Visualizzazioni di base, per i Comuni della Provincia di Enna
+lang: it-IT
