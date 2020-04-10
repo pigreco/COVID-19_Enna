@@ -24,6 +24,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 
 - [Lista eleborazioni](#lista-eleborazioni)
     - [Mappa Provincia di Enna](#mappa-provincia-di-enna)
+  - [Tabella riepilogativa](#tabella-riepilogativa)
     - [Andamento complessivo](#andamento-complessivo)
     - [Andamento comune per comune 1](#andamento-comune-per-comune-1)
     - [Andamento comune per comune 2](#andamento-comune-per-comune-2)
@@ -46,6 +47,21 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 ```html
 <iframe title="Comuni della Provincia di Enna" aria-label="choropleth map" id="datawrapper-chart-P29ri" src="//datawrapper.dwcdn.net/P29ri/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+```
+
+<br>
+
+## Tabella riepilogativa
+
+<iframe title="COVID-19 Sicilia: riepilogo provincia Enna" aria-label="Table" id="datawrapper-chart-Kv6Cc" src="//datawrapper.dwcdn.net/Kv6Cc/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="314"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+📈 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID-19 Sicilia: riepilogo provincia Enna" aria-label="Table" id="datawrapper-chart-Kv6Cc" src="//datawrapper.dwcdn.net/Kv6Cc/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="314"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 ```
 
 <br>
