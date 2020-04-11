@@ -18,8 +18,7 @@ A seguire alcuni grafici di base, che potete inglobare in qualsiasi pagina web c
 
 ---
 
-Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [**Totò Fiandaca**](https://twitter.com/totofiandaca) - 🏁 **Fonte**: [@EPAOfficilaPage](https://www.facebook.com/EPAOfficialPage/) 🏁
-
+Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COVID-19_Enna/blob/master/README.md), creato e gestito da [**Totò Fiandaca**](https://twitter.com/totofiandaca) <br> 🏁 **Fonte**: [@EPAOfficilaPage](https://www.facebook.com/EPAOfficialPage/) 🏁 → **Dati pubblicati alle ore 22:00**
 <!-- TOC -->
 
 - [Lista eleborazioni](#lista-eleborazioni)
