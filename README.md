@@ -30,6 +30,9 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
     - [Andamento comune per comune - Totali casi - Ultima settimana](#andamento-comune-per-comune---totali-casi---ultima-settimana)
   - [NOTE](#note)
   - [Disclaimer](#disclaimer)
+  - [Grafici province e regione](#grafici-province-e-regione)
+    - [Riepilogo regionale 2](#riepilogo-regionale-2)
+    - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
 
 <!-- /TOC -->
 
@@ -49,7 +52,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 </script>
 ```
 
-<br>
+[`torna su`](#lista-eleborazioni)
 
 ### Tabella riepilogativa
 
@@ -65,7 +68,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 </script>
 ```
 
-<br>
+[`torna su`](#lista-eleborazioni)
 
 ### Andamento complessivo
 
@@ -80,7 +83,8 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Andamento Provincia Enna" aria-label="Interactive line chart" id="datawrapper-chart-Yd4St" src="//datawrapper.dwcdn.net/Yd4St/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
-<br>
+
+[`torna su`](#lista-eleborazioni)
 
 ### Andamento comune per comune 1
 
@@ -95,7 +99,8 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Split Bars" id="datawrapper-chart-UDtbR" src="//datawrapper.dwcdn.net/UDtbR/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
-<br>
+
+[`torna su`](#lista-eleborazioni)
 
 ### Andamento comune per comune 2
 
@@ -110,7 +115,8 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 <iframe title="Pandemia COVID-19: Comuni della Provincia di Enna" aria-label="Column Chart" id="datawrapper-chart-pTTjV" src="//datawrapper.dwcdn.net/pTTjV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="717"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 ```
-<br>
+
+[`torna su`](#lista-eleborazioni)
 
 ### Andamento comune per comune - Totali casi - Ultima settimana
 
@@ -126,6 +132,8 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 </script>
 ```
 
+[`torna su`](#lista-eleborazioni)
+
 ---
 
 😷 NUMERO VERDE **800 31 91 41** per i parenti dei pazienti COVID ricoverati all'ospedale Umberto I di Enna dalle **ore 9 alle ore 13** 😷
@@ -137,3 +145,39 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 ## Disclaimer
 
 I dati sono raccolti dalla pagina Facebook [@EPAOfficilaPage](https://www.facebook.com/EPAOfficialPage/) (grazie mille) e aggiornati alle **22:00 di ogni sera**. Non è facile districarsi su dati provenienti da 20 Comuni diversi, quindi l'errore è sempre dietro l'angolo: potrebbe accadere che dei dati siano conteggiati più volte (nel caso dell'Oasi di Troina). In generale i totali non differiscono molto da quelli pubblicati dalla Regione Siciliana.
+
+[`torna su`](#lista-eleborazioni)
+
+## Grafici province e regione
+
+### Riepilogo regionale 2
+
+<iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID19 Sicilia: andamento regionale" aria-label="Interactive line chart" id="datawrapper-chart-e6xdK" src="//datawrapper.dwcdn.net/e6xdK" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
+
+[`torna su`](#lista-eleborazioni)
+
+
+### Variazione casi positivi per provincia
+
+<iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID&ndash;19 Sicilia: variazione positivi per provincia" aria-label="Interactive line chart" id="datawrapper-chart-ifkg2" src="//datawrapper.dwcdn.net/ifkg2" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
+
+[`torna su`](#lista-eleborazioni)
