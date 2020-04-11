@@ -10,7 +10,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 * aggiunto file risorse/pop_res_20200101.csv con dati sulla popolazione per comune. Fonte ISTAT
 * Creata la pagina <https://pigreco.github.io/COVID-19_Enna/>
 
-### 10/03/2020
+### 2020/03/10
 
 * aggiunta Tabella riepilogativa
 * migliorata la grafica
