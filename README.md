@@ -29,6 +29,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
     - [Andamento comune per comune 2](#andamento-comune-per-comune-2)
     - [Andamento comune per comune - Totali casi - Ultima settimana](#andamento-comune-per-comune---totali-casi---ultima-settimana)
   - [NOTE](#note)
+  - [Disclaimer](#disclaimer)
 
 <!-- /TOC -->
 
@@ -131,3 +132,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
 ## NOTE
 
 📑 Questa pagina è stata ispirata dal bel lavoro e dalla [bella idea](https://blog.datawrapper.de/coronaviruscharts/) di **Datawrapper** di predisporre delle "buone" visualizzazioni a tema **COVID-19**, da rendere disponibili a chiunque per essere utilizzate in qualsiasi sito web.
+
+## Disclaimer
+
+I dati sono raccolti dalla pagina Facebook [@EPAOfficilaPage](https://www.facebook.com/EPAOfficialPage/) (grazie mille) e aggiornati alle **22:00 di ogni sera**. Non è facile districarsi su dati provenienti da 20 Comuni diversi, quindi l'errore è sempre dietro l'angolo: potrebbe accadere che dei dati siano conteggiati più volte (nel caso dell'Oasi di Troina). In generale i totali non differiscono molto da quelli pubblicati dalla Regione Siciliana.
