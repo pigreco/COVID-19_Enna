@@ -33,6 +33,7 @@ Questa è una pagina del [progetto COVID-19_Enna](https://github.com/pigreco/COV
   - [Grafici province e regione](#grafici-province-e-regione)
     - [Riepilogo regionale 2](#riepilogo-regionale-2)
     - [Variazione casi positivi per provincia](#variazione-casi-positivi-per-provincia)
+    - [Mappa regionale](#mappa-regionale)
 
 <!-- /TOC -->
 
@@ -181,3 +182,17 @@ I dati sono raccolti dalla pagina Facebook [@EPAOfficilaPage](https://www.facebo
 ```
 
 [`torna su`](#lista-eleborazioni)
+
+### Mappa regionale
+
+<iframe title="COVID-19 Sicilia: mappa riepilogo regionale" aria-label="choropleth map" id="datawrapper-chart-ux0r6" src="//datawrapper.dwcdn.net/ux0r6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+<br>
+
+👉 Se vuoi **includere questo grafico** sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```html
+<iframe title="COVID-19 Sicilia: mappa riepilogo regionale" aria-label="choropleth map" id="datawrapper-chart-ux0r6" src="//datawrapper.dwcdn.net/ux0r6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+```
